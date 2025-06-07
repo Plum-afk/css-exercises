@@ -1,0 +1,15 @@
+.p-text {
+    background-color: rgb(255, 100, 100);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#div-two {
+    color: hsl(255, 100%, 50%);
+    font-size: 36px;
+}
+
+#div-four {
+    background-color: #53ff5c;
+    font-size: 24px;
+    font-weight: bold;
+}
